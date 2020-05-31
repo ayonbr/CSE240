@@ -1,6 +1,5 @@
 
 // CSE240 Fall 2019 HW5
-// Brian Ayón
 // Write the compiler used: gcc
 
 // READ BEFORE YOU START:
