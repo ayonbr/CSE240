@@ -1,4 +1,4 @@
-;Your Name: Brian Ayon
+
 ;hw12
 ;Course: CSE 240
 
