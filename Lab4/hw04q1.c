@@ -1,6 +1,5 @@
 //CSE240 Fall 2019 HW4
 
-// Brian Ayon
 // State the IDE that you use: GCC
 
 #include <stdio.h>
